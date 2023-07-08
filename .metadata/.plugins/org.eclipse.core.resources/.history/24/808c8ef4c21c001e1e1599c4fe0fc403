@@ -1,0 +1,7 @@
+application:
+  name: 01_Maven
+  package: com.jrtp._Maven
+spring:
+  application:
+    name: ${application.name}
+

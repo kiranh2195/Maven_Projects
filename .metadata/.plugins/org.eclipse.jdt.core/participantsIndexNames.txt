@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+E:\JRTP\Projects\Maven Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\800699602.index
+\02_Maven-webApp\src\main\resources
+E:\JRTP\Projects\Maven Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\354231627.index
+\02_Micro-WebApp\src\main\resources
+E:\JRTP\Projects\Maven Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3597373608.index
+\4_IRCTC-WebApp\src\main\resources
